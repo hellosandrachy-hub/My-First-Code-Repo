@@ -1,2 +1,2 @@
-# My-First-Code-Repo
+#MyFirstCode Repo
 A repository for electric power generation using solar energy 
